@@ -1,0 +1,25 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+}
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    float: right;
+    list-style: none;
+}
+
+.navbar a{
+    
+    padding: 5px 5px;
+    color: aliceblue;
+    font-style: none;
+    list-style: none;
+
+}
